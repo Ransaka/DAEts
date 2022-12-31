@@ -706,7 +706,7 @@ plt.show()
 
 
     
-![png](README_files/README_17_0.png)
+![png](images/README_17_0.png)
     
 
 
@@ -815,7 +815,7 @@ plt.show()
 
 
     
-![png](README_files/README_21_0.png)
+![png](images/README_21_0.png)
     
 
 
@@ -847,13 +847,13 @@ labels = plot_kmeans_pca(test_data_npy,n_clusters=N_CLUSTERS)
 
 
     
-![png](README_files/README_26_0.png)
+![png](images/README_26_0.png)
     
 
 
 
     
-![png](README_files/README_26_1.png)
+![png](images/README_26_1.png)
     
 
 
@@ -875,7 +875,7 @@ plot_time_series(clustered_df)
 
 
     
-![png](README_files/README_29_0.png)
+![png](images/README_29_0.png)
     
 
 
@@ -896,13 +896,13 @@ labels = plot_kmeans_pca(test_reconstructed,n_clusters=N_CLUSTERS)
 
 
     
-![png](README_files/README_32_0.png)
+![png](images/README_32_0.png)
     
 
 
 
     
-![png](README_files/README_32_1.png)
+![png](images/README_32_1.png)
     
 
 
@@ -922,6 +922,6 @@ plot_time_series(reconstructed_clustered_df)
 
 
     
-![png](README_files/README_34_0.png)
+![png](images/README_34_0.png)
     
 
